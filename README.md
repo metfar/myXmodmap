@@ -3,11 +3,11 @@
 Xmodmap with Spanish required keys on an English Keyboard. It could be used for French too.
 
 
-### Some notes
+### Xmodmap
 
 Right Alt works as Alt+Gr, adding additional positions.
 
-Key at the right position of "L" is "Ñ" for this layout, but it is also as AltGr+N, as "Ç" is AltGr+C.
+Key at the position on the right of "L" is "Ñ" for this layout, but it is also as AltGr+N, as "Ç" is AltGr+C.
 
 Because the "Ñ" key falls on the ":;" key, the comma and the period were changed. Shift+comma is ";" and shift+period is ":".
 
@@ -19,6 +19,9 @@ Also, AltGr+"\[" is the same dead grave tilde, and  with "\]", it produces the c
 
 The 2 has the quotation marks using Shift, and "@" using AltGr. Also, AltGr+Q produces the at-sign.
 
+### Xmodmap with Greek Characters 
+
+I hope it could be useful to write Spanish and perhaps some math with an English Keyboard
 
 ### Enjoy
 
