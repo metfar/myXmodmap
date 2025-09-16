@@ -1,0 +1,67 @@
+; ======= BEGIN: Auto-generated from Xmodmap by Lumen (SC-accurate, Greek + ASCII toggle) =======
+#Requires AutoHotkey v2.0
+; Usa scancodes de teclado US ANSI (SCxxx) para mayor fidelidad física donde es posible.
+; Alterna salida Unicode/ASCII con Ctrl+Alt+F12.
+global UseASCII := false
+^!F12::{
+    global UseASCII
+    UseASCII := !UseASCII
+    ToolTip(UseASCII ? "Greek: ASCII mode" : "Greek: Unicode mode")
+    SetTimer(() => ToolTip(), -1000)
+}
+<^>!sc002:: Send "|"
++<^>!sc002:: Send "!"
+<^>!sc003:: Send "@"
++<^>!sc003:: Send """
+<^>!sc004:: Send "#"
++<^>!sc004:: Send "§"
+<^>!sc005:: Send "~"
++<^>!sc005:: Send "$"
+<^>!sc006:: Send "€"
++<^>!sc006:: Send "%"
+<^>!sc007:: Send "¬"
+<^>!sc008:: Send "{{{}}"
++<^>!sc008:: Send "&"
+<^>!sc009:: Send "{{{}}"
++<^>!sc009:: Send "*"
+<^>!sc00A:: Send "["
++<^>!sc00A:: Send "("
+<^>!sc00B:: Send "]"
++<^>!sc00B:: Send ")"
++<^>!sc028:: Send "_"
+<^>!sc00C:: Send "'"
++<^>!sc00C:: Send "?"
+<^>!sc00D:: Send "¡"
++<^>!sc00D:: Send "¿"
++<^>!sc010:: Send "Q"
++<^>!sc011:: Send "W"
++<^>!sc012:: Send "E"
++<^>!sc013:: Send "R"
++<^>!sc014:: Send "T"
++<^>!sc015:: Send "Y"
++<^>!sc016:: Send "U"
++<^>!sc017:: Send "I"
++<^>!sc018:: Send "O"
++<^>!sc019:: Send "P"
++<^>!sc01E:: Send "A"
++<^>!sc01F:: Send "S"
++<^>!sc020:: Send "D"
++<^>!sc021:: Send "F"
++<^>!sc022:: Send "G"
++<^>!sc023:: Send "H"
++<^>!sc024:: Send "J"
++<^>!sc025:: Send "K"
++<^>!sc026:: Send "L"
+<^>!sc02B:: Send "ç"
++<^>!sc02B:: Send "Ç"
++<^>!sc02C:: Send "Z"
++<^>!sc02D:: Send "X"
++<^>!sc02E:: Send "C"
++<^>!sc02F:: Send "V"
++<^>!sc030:: Send "B"
++<^>!sc031:: Send "N"
++<^>!sc032:: Send "M"
++<^>!sc033:: Send ";"
++<^>!sc034:: Send ":"
++<^>!sc033:: Send ">"
+; ======= END: Auto-generated from Xmodmap by Lumen (SC-accurate, Greek + ASCII toggle) =======
