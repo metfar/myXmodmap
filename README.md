@@ -27,4 +27,4 @@ I hope it could be useful to write Spanish and perhaps some math with an English
 
 Have a nice one!
 
-- oOo -
+          - oOo -
