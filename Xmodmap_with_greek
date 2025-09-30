@@ -1,5 +1,4 @@
 
-
 !Xmodmap with Greek characters
 keycode   8 =
 keycode   9 = Escape NoSymbol Escape
@@ -8,16 +7,15 @@ keycode  11 = 2 quotedbl at quotedbl at quotedbl at
 keycode  12 = 3 periodcentered numbersign section numbersign section numbersign
 keycode  13 = 4 dollar asciitilde dollar asciitilde dollar asciitilde
 keycode  14 = 5 percent EuroSign percent EuroSign percent EuroSign
-keycode  15 = 6 asciicircum notsign caret notsign dead_circumflex notsign
-keycode  16 = 7 ampersand braceleft ampersand slash slash braceleft
+keycode  15 = 6 ampersand notsign caret notsign asciicircum notsign
+keycode  16 = 7 slash braceleft ampersand asciicircum ampersand braceleft
 keycode  17 = 8 asterisk braceleft asterisk braceleft asterisk braceleft
-keycode  18 = 9 parenleft bracketleft parenleft bracketleft braceleft bracketleft
-keycode  19 = 0 parenright bracketright parenright bracketright braceright bracketright
+keycode  18 = 9 parenleft  bracketleft  parenleft  bracketleft  braceleft  bracketleft
+keycode  19 = 0 parenright bracketright parenright bracketright 
 keycode  20 = apostrophe question apostrophe  underscore backslash questiondown 
 keycode  61 = minus underscore apostrophe question slash question
 ! backslash questiondown slash question minus underscore questiondown questiondown  
-
-keycode  21 = equal plus exclamdown questiondown exclamdown questiondown  dead_cedilla dead_ogonek
+keycode  21 = plus equal exclamdown questiondown exclamdown questiondown  dead_cedilla dead_ogonek
 keycode  22 = BackSpace BackSpace BackSpace BackSpace
 keycode  23 = Tab ISO_Left_Tab Tab ISO_Left_Tab
 keycode  24 = q Q q Q at at 
@@ -30,8 +28,11 @@ keycode  30 = u U u U Greek_psi Greek_PSI
 keycode  31 = i I i I Greek_iota Greek_IOTA
 keycode  32 = o O o O Greek_omicron Greek_OMICRON
 keycode  33 = p P p P Greek_pi Greek_PI 
-keycode  34 = bracketleft  braceleft  dead_grave  dead_grave  dead_grave      parenleft  dead_abovering
-keycode  35 = bracketright braceright dead_grave  dead_macron dead_circumflex parenright dead_macron
+!keycode  34 = bracketleft  braceleft  dead_grave  dead_grave  dead_grave      parenleft  dead_abovering
+!keycode  35 = bracketright braceright dead_grave  dead_macron dead_circumflex parenright dead_macron
+keycode  34 = dead_grave dead_circumflex grave less bracketleft  braceleft
+keycode  35 = plus asterisk acute macron bracketright braceright dead_macron
+
 keycode  36 = Return NoSymbol Return
 keycode  37 = Control_L NoSymbol Control_L
 keycode  38 = a A a A Greek_alpha Greek_ALPHA 
@@ -52,7 +53,7 @@ keycode  52 = z Z z Z Greek_zeta Greek_ZETA
 keycode  53 = x X x X Greek_xi Greek_XI
 !Greek_chi Greek_CHI 
 keycode  54 = c C c C ccedilla Ccedilla 
-keycode  55 = v V v V Greek_chi Greek_CHI 
+keycode  55 = v V v V Greek_chi Greek_CHI
 keycode  56 = b B b B Greek_beta Greek_BETA 
 keycode  57 = n N n N Greek_nu Greek_NU 
 keycode  58 = m M m M Greek_mu Greek_MU
