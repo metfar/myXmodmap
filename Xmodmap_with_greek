@@ -1,5 +1,5 @@
-
-!Xmodmap with Greek characters
+!Xmodmap Spanish with Greek on an English keyboard
+!keycode {n} = {normal} {shift} {unused} {unused} {altgr} {altgr_shift} {unused} {unused}
 keycode   8 =
 keycode   9 = Escape NoSymbol Escape
 keycode  10 = 1 exclam bar exclam bar exclamdown bar
@@ -11,10 +11,11 @@ keycode  15 = 6 ampersand notsign caret notsign asciicircum notsign
 keycode  16 = 7 slash braceleft ampersand asciicircum ampersand braceleft
 keycode  17 = 8 asterisk braceleft asterisk braceleft asterisk braceleft
 keycode  18 = 9 parenleft  bracketleft  parenleft  bracketleft  braceleft  bracketleft
-keycode  19 = 0 parenright bracketright parenright bracketright 
+keycode  19 = 0 parenright bracketright parenright bracketright braceright bracketright 
 keycode  20 = apostrophe question apostrophe  underscore backslash questiondown 
 keycode  61 = minus underscore apostrophe question slash question
 ! backslash questiondown slash question minus underscore questiondown questiondown  
+
 keycode  21 = plus equal exclamdown questiondown exclamdown questiondown  dead_cedilla dead_ogonek
 keycode  22 = BackSpace BackSpace BackSpace BackSpace
 keycode  23 = Tab ISO_Left_Tab Tab ISO_Left_Tab
