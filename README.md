@@ -21,7 +21,12 @@ The 2 has the quotation marks using Shift, and "@" using AltGr. Also, AltGr+Q pr
 
 ### Xmodmap with Greek Characters 
 
-I hope it could be useful to write Spanish and perhaps some math with an English Keyboard
+I hope it could be useful to write Spanish and perhaps some math with an English Keyboard.
+
+I am using this layout right now.
+
+![Keyboard for xmodmap with Spanish and Greek symbols on an English Layout](KB_Xmod_Spanish_with_Greek.png)
+
 
 ### Enjoy
 
