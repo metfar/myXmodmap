@@ -27,7 +27,8 @@ keycode  28 = t T t T Greek_tau Greek_TAU
 keycode  29 = y Y y Y Greek_upsilon Greek_UPSILON
 keycode  30 = u U u U Greek_psi Greek_PSI
 keycode  31 = i I i I Greek_iota Greek_IOTA
-keycode  32 = o O o O Greek_omicron Greek_OMICRON
+keycode  32 = o O o O ordmasculine ordfeminine
+! Greek_omicron Greek_OMICRON
 keycode  33 = p P p P Greek_pi Greek_PI 
 !keycode  34 = bracketleft  braceleft  dead_grave  dead_grave  dead_grave      parenleft  dead_abovering
 !keycode  35 = bracketright braceright dead_grave  dead_macron dead_circumflex parenright dead_macron
