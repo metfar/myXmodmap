@@ -12,7 +12,7 @@ keycode  16 = 7 slash braceleft ampersand asciicircum ampersand braceleft
 keycode  17 = 8 asterisk braceleft asterisk braceleft asterisk braceleft
 keycode  18 = 9 parenleft  bracketleft  parenleft  bracketleft  braceleft  bracketleft
 keycode  19 = 0 parenright bracketright parenright bracketright braceright bracketright 
-keycode  20 = apostrophe question apostrophe  underscore backslash questiondown 
+keycode  20 = apostrophe question apostrophe underscore backslash questiondown 
 keycode  61 = minus underscore apostrophe question slash question
 ! backslash questiondown slash question minus underscore questiondown questiondown  
 
@@ -48,7 +48,7 @@ keycode  45 = k K k K Greek_kappa Greek_KAPPA
 keycode  46 = l L l L Greek_lambda Greek_LAMBDA
 keycode  47 = ntilde Ntilde ntilde Ntilde dead_tilde dead_doubleacute dead_tilde dead_doubleacute
 keycode  48 = dead_acute dead_diaeresis dead_acute dead_diaeresis braceleft dead_caron braceleft dead_caron
-keycode  49 = grave asciitilde ordmasculine ordfeminine backslash dead_grave backslash backslash
+keycode  49 = grave asciitilde ordmasculine ordfeminine backslash degree backslash backslash
 keycode  50 = Shift_L NoSymbol Shift_L
 keycode  51 = backslash bar ccedilla Ccedilla braceright dead_breve braceright dead_breve
 keycode  52 = z Z z Z Greek_zeta Greek_ZETA 
