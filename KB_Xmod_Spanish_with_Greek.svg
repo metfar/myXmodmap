@@ -6,9 +6,9 @@
    height="300"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    version="1.0"
-   sodipodi:docname="KB_Spanish.svg.2025_09_30_08_15_16.0.svg"
+   sodipodi:docname="KB_Xmod_Spanish_with_Greek.svg"
    xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -131,9 +131,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.74437406"
-     inkscape:cx="317.71661"
-     inkscape:cy="213.60228"
+     inkscape:zoom="2.9774962"
+     inkscape:cx="540.72277"
+     inkscape:cy="136.02032"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:grid-points="true"
@@ -162,7 +162,8 @@
        empcolor="#0000ff"
        opacity="0.12156863"
        empopacity="0.25098039"
-       empspacing="4" /><sodipodi:guide
+       empspacing="4"
+       units="px" /><sodipodi:guide
        position="199.32356,233.3991"
        orientation="0,-1"
        id="guide6855"
@@ -1055,7 +1056,7 @@
            id="tspan3730-3-8-1-1-2"
            x="608.11829"
            y="82.540375"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">Ο</tspan></text><text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">ª</tspan></text><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:'Moder DOS 437 Win';-inkscape-font-specification:'Moder DOS 437 Win';fill:#000000;fill-opacity:1;stroke:none;stroke-width:7.55906;stroke-linecap:round;stroke-linejoin:round;stroke-dashoffset:1.88976;stroke-opacity:0.772588;paint-order:stroke markers fill"
          x="577.11768"
@@ -1074,7 +1075,7 @@
            id="tspan4651-5-0-6-7-54"
            x="608.98169"
            y="111.32095"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000080">ο</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000080">º</tspan><tspan
            sodipodi:role="line"
            x="608.98169"
            y="137.98758"
